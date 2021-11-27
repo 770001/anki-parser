@@ -1,1000 +1,1000 @@
-A    Неопределенный артикль
-The    Определенный артикль
-Be    Быть
-Of    Предлог родительного падежа
-And    И
-In    В, через (о времени)
-To    К, в
-Have    Иметь
-It    Это, он, она, оно (для неодуш.сущ.)
-For    Для, ибо
-I    Я
-That    Тот, что
-You    Ты, вы
-He    Он
-On    На
-With    С
-Do    Делать
-At    У
-By    К, предлог творительного падежа
-Not    Не
-This    Это
-But    Но, кроме
-From    От
-They    Они
-His    Его
-She    Она
-Or    Или
-Which    Который
-As    Как, так как
-We    Мы
-Say    Сказать
-Will    Вспом.глагол буд.вр., воля
-Would    Бы
-Can    Уметь, мочь
-If    Если
-Their    Их
-Go    Ходить, идти
-What    Что
-There    Там
-All    Все
-Get    Получать
-Her    Ее
-Make    Делать
-Who    Кто
-Out    Вне
-Up    Вверх
-See    Видеть
-Know    Знать
-Time    Время, раз
-Take    Брать
-Them    Им
-Some    Несколько, какой-то
-Could    Мог
-So    Такой, поэтому
-Him    Ему
-Year    Год
-Into    В
-Its    Его
-Then    Затем
-Think    Думать
-My    Мой
-Come    Приходить
-Than    Чем
-More    Больше
-About    О, около
-Now    Сейчас
-Last    Прошлый, продолжаться
-Your    Твой, ваш
-Me    Мне
-No    Нет
-Other    Другой
-Give    Дать
-Just    Только что, справедливый
-Should    Следует
-These    Эти
-People    Люди
-Also    Также
-Well    Хорошо
-Any    Любой
-Only    Только, единственный
-New    Новый
-Very    Очень, тот самый
-When    Когда (вопросительное слово)
-May    Мочь
-Way    Путь, способ
-Look    Смотреть, выглядеть, взгляд
-Like    Любить, нравиться, как
-Use    Использовать, применение
-Such    Такой
-How    Как
-Because    Потому что
-Good    Хороший
-Find    Найти
-Man    Человек, мужчина
-Our    Наш
-Want    Хотеть
-Day    День
-Between    Между
-Even    Даже
-Many    Много (для исчисляемых)
-Those    Те
-After    После
-Down    Внизу
-Yeah    Да
-Thing    Вещь
-Tell    Сказать (кому-то)
-Through    Сквозь
-Back    Назад, спина
-Still    Все еще, тихий
-Must    Должен
-Child    Ребенок
-Here    Здесь
-Over    Над, выше (предлог), пере-, движение через (наречие)
-Too    Тоже, слишком
-Put    Положить
-Own    Собственный
-Work    Работа, работать
-Become    Становиться
-Old    Старый
-Government    Правительство
-Mean    Иметь в виду
-Part    Часть
-Leave    Покинуть
-Life    Жизнь
-Great    Великий, великолепный
-Where    Где
-Case    Случай, коробка
-Woman    Женщина
-Seem    Казаться
-Same    Тот же самый
-Us    Нас
-Need    Нужда, нужно
-Feel    Чувствовать
-Each    Каждый
-Might    (пр.вр. от may может быть)
-Much    Много (для неисчисл.), очень
-Ask    Спрашивать, задавать
-Group    Группа
-Number    Число, номер
-Yes    Да
-However    Однако
-Another    Другой
-Again    Снова
-World    Мир
-Area    Территория, площадь
-Show    Шоу, показывать
-Course    Курс
-Shall    "вспом.глагол буд.вр.
-Under    Под
-Problem    Проблема
-Against    Против
-Never    Никогда
-Most    Самый
-Service    Служба
-Try    Стараться
-Call    Звонок, звать, звонить, называться
-Hand    Рука
-Party    Вечеринка, партия
-High    Высоко, высокий
-Something    Что-то
-School    Школа
-Small    Маленький
-Place    Место, размещать
-Before    До
-Why    Почему
-While    В то время как, пока, промежуток времени
-Away    Вне
-Keep    Хранить, держать, продолжать
-Point    Точка, смысл, указывать
-House    Дом
-Different    Различный
-Country    Страна, сельская местность
-Really    В самом деле
-Provide    Обеспечить
-Week    Неделя
-Hold    Держать, проводить
-Large    Большой
-Member    Член
-Off    От
-Always    Всегда
-Next    Следующий
-Follow    Следовать
-Without    Без
-Turn    Очередность, поворачивать
-End    Конец, заканчивать
-Local    Местный
-During    В течение
-Bring    Нести
-Word    Слово
-Begin    Начинать
-Although    Хотя
-Example    Пример
-Family    Семья
-Rather    Скорее
-Fact    Факт
-Social    Общественный
-Write    Писать
-State    Государство, штат, утверждать
-Percent    Процент
-Quite    Довольно
-Both    Оба
-Start    Старт, начинать
-Run    Бег, бежать
-Long    Длинный
-Right    Правый, право
-Set    Набор, установить
-Help    Помогать, помощь
-Every    Каждый
-Home    Дом, домашний
-Month    Месяц
-Side    Сторона
-Night    Ночь
-Important    Важный
-Eye    Глаз
-Head    Возглавлять, голова
-Question    Вопрос, сомневаться
-Play    Играть, пьеса
-Power    Власть, сила
-Money    Деньги
-Change    Изменение, сдача, менять
-Move    Двигаться
-Interest    Интерес, процент прибыли
-Order    Приказ, порядок, заказывать
-Book    Книга, заказать
-Often    Часто
-Young    Молодой
-National    Национальный
-Pay    Платить
-Hear    Слышать
-Room    Комната
-Whether    Ли
-Water    Вода
-Form    Форма, бланк, формировать
-Car    Автомобиль
-Others    Другие
-Yet    Еще (не), однако
-Perhaps    Возможно
-Meet    Встретить, познакомиться
-Till    До
-Though    Хотя
-Policy    Политика
-Include    Включать (в себя)
-Believe    Верить
-Already    Уже
-Possible    Возможный
-Nothing    Ничего
-Line    Линия
-Allow    Позволять
-Effect    Эффект
-Big    Большой
-Late    Поздний
-Lead    Руководство, вести
-Stand    Стоять, стойка
-Idea    Идея
-Study    Учеба, кабинет, учиться
-Lot    Много (в выраженииa lot)
-Live    Жить
-Job    Работа
-Since    С (тех пор как)
-Name    Имя, называть
-Result    Результат
-Body    Тело
-Happen    Случаться
-Friend    Друг
-Least    Наименьший
-Almost    Почти
-Carry    Нести
-Authority    Власть
-Early    Рано
-View    Взгляд, обозревать
-Himself    (он) сам
-Public    Общественный, народ, публика
-Usually    Обычно
-Together    Вместе
-Talk    Беседа, беседовать
-Report    Доклад, сообщать
-Face    Лицо, стоять лицом к
-Sit    Сидеть
-Appear    Появляться
-Continue    Продолжать
-Able    Способный
-Political    Политический
-Hour    Час
-Rate    Пропорция, ставка
-Law    Закон
-Door    Дверь
-Company    Компания
-Court    Суд
-Fuck    Трахаться
-Little    Маленький, немного
-Because of    Из-за
-Office    Офис
-Let    Позволить
-War    Война
-Reason    Причина
-Less    Менее
-Subject    Предмет
-Person    Лицо, человек
-Term    Термин, срок
-Full    Полный
-Sort    Сорт, вид, сортировать
-Require    Требовать
-Suggest    Предлагать, предполагать
-Far    Далеко
-Towards    К
-Anything    Ничего
-Period    Период
-Read    Читать
-Society    Общество
-Process    Процесс
-Mother    Мать
-Offer    Предложение, предлагать
-Voice    Голос
-Once    Как только, однажды
-Police    Полиция
-Lose    Терять
-Add    Добавлять
-Probably    Вероятно
-Expect    Ожидать
-Ever    Коогда-нибудь
-Price    Цена
-Action    Действие
-Issue    Выпуск
-Remember    Помнить
-Position    Позиция
-Low    Низкий
-Matter    Дело, вопрос, факты, иметь значение
-Community    Община
-Remain    Оставаться
-Figure    Цифра
-Type    Тип
-Actually    Вообще-то
-Education    Образование
-Fall    Падать, упадок, осень (ам.)
-Speak    Говорить
-Few    Мало
-Today    Сегодня
-Enough    Достаточно
-Open    Открытый, открывать
-Bad    Плохой
-Buy    Покупать
-Minute    Минута
-Moment    Момент
-Girl    Девочка, девушка
-Age    Возраст
-Centre    Центр
-Stop    Остановка, остановить(-ся)
-Control    Контроль, контролировать
-Send    Посылать
-Health    Здоровье
-Decide    Решать
-Main    Главный
-Win    Победить, победа
-Wound    Рана, ранить
-Understand    Понимать
-Develop    Развивать
-Class    Класс
-Industry    Промышленность
-Receive    Получать
-Several    Несколько
-Return    Возвращение, возвращаться
-Build    Строить
-Spend    Проводить (время)
-Force    Сила, принуждать
-Condition    Условие
-Itself    (он) сам
-Paper    Бумага, газета
-Themselves    (они) сами
-Major    Главный
-Describe    Описывать
-Agree    Соглашаться
-Economic    Экономический
-Upon    На
-Learn    Учить
-General    Генерал, общий
-Century    Век
-Therefore    Поэтому
-Father    Отец
-Section    Раздел
-Patient    Терпеливый, пациент
-Around    Вокруг
-Activity    Мероприятие
-Road    Дорога
-Table    Стол
-Cow    Корова
-Including    Включающий
-Church    Церковь
-Reach    Достигать
-Real    Реальный
-Lie    Лгать
-Mind    Ум, возражать
-Likely    Вероятный
-Among    Среди
-Team    Команда
-Death    Смерть
-Soon    Скоро
-Act    Акт, действие, действовать
-Sense    Смысл, чувство, чувствовать
-Staff    Персонал
-Certain    Определенный
-Student    Студент
-Half    Половина
-Language    Язык
-Walk    Прогулка, ходить (пешком)
-Die    Умереть
-Special    Особый
-Difficult    Трудный
-International    Международный
-Department    Отделение
-Management    Управление
-Morning    Утро
-Draw    Рисовать (карандашом)
-Hope    Надежда, надеяться
-Across    Через
-Plan    План, планировать
-Product    Продукт
-City    Город
-Committee    Комитет
-Ground    Земля
-Letter    Письмо, буква
-Create    Создавать
-Evidence    Свидетельство
-Foot    Нога
-Clear    Ясный, очищать
-Boy    Мальчик
-Game    Игра
-Food    Еда
-Role    Роль
-Practice    Практика
-Bank    Банк, берег
-Else    Еще
-Support    Поддержка, поддерживать
-Sell    Продавать
-Event    Событие
-Building    Здание
-Behind    За, сзади
-Sure    Уверенный
-Pass    Передавать, проходить
-Black    Черный
-Stage    Стадия
-Meeting    Встреча
-Hi    Привет
-Sometimes    Иногда
-Thus    Таким образом
-Accept    Допускать
-Available    Наличный
-Town    Город
-Art    Искусство
-Further    Дальнейший
-Club    Клуб
-Arm    Рука
-History    История
-Parent    Родитель
-Land    Земля, приземляться
-Trade    Торговля, торговать
-Watch    Часы, наблюдать
-White    Белый
-Situation    Ситуация
-Whose    Чей
-Ago    Назад
-Teacher    Учитель
-Record    Запись, записывать
-Manager    Управляющий, менеджер
-Relation    Связь, отношение
-Common    Общий
-System    Система
-Strong    Сильный
-Whole    Целый
-Field    Поле
-Free    Свободный
-Break    Ломать, перерыв
-Yesterday    Вчера
-Window    Окно
-Account    Счет
-Explain    Объяснять
-Stay    Остановиться
-Wait    Ждать
-Material    Материал
-Air    Воздух
-Wife    Жена
-Cover    Крышка, покрывать
-Apply    Обращаться
-Love    Любить, любовь
-Project    Проект
-Raise    Поднимать
-Sale    Продажа
-Relationship    Отношение
-Indeed    В самом деле
-Please    Пожалуйста
-Light    Светлый, легкий, свет
-Claim    Требование, требовать
-Base    Основа, база,базироваться
-Care    Заботиться, забота, осторожность
-Someone    Кто-то
-Everything    Всё
-Certainly    Конечно
-Rule    Правило, управлять
-Cut    Резать
-Grow    Расти, выращивать
-Similar    Подобный
-Story    История, рассказ
-Quality    Качество
-Tax    Налог
-Worker    Рабочий
-Nature    Природа
-Structure    Структура
-Necessary    Необходимый
-Pound    Фунт
-Method    Метод
-Unit    Часть
-Central    Центральный
-Bed    Кровать
-Union    Союз
-Movement    Движение
-Board    Доска, совет
-True    Правдивый
-Especially    Особенно
-Short    Короткий
-Personal    Личный
-Detail    Деталь
-Model    Модель
-Bear    Медведь,носить, рождать
-Single    Одинокий
-Join    Присоединяться
-Reduce    Сокращать
-Establish    Учреждать
-Herself    (она) сама
-Wall    Стена
-Easy    Легкий
-Private    Частный
-Computer    Компьютер
-Former    Бывший
-Hospital    Больница
-Chapter    Глава
-Scheme    Схема, план
-Bye    Пока
-Consider    Полагать
-Council    Совет
-Development    Развитие
-Experience    Опыт
-Information    Информация
-Involve    Вовлекать
-Theory    Теория
-Within    В
-Choose    Выбирать
-Wish    Желать, желание
-Property    Собственность
-Achieve    Достигать
-Financial    Финансовый
-Poor    Бедный
-Blow    Дуть
-Charge    Ответственность, загружать
-Director    Директор
-Drive    Водить (машину), катание, езда
-Approach    Подход, приближаться
-Chance    Шанс
-Application    Приложение
-Seek    Искать
-Cool    Крутой, прохладный
-Foreign    Иностранный
-Along    Вдоль
-Top    Верхний, верх
-Amount    Количество
-Son    Сын
-Operation    Операция
-Fail    Потерпеть неудачу
-Human    Человеческий,человек
-Opportunity    Возможность
-Simple    Простой
-Leader    Лидер
-Level    Уровень
-Production    Продукция
-Value    Стоимость
-Firm    Крепкий, фирма
-Picture    Картина
-Source    Источник
-Security    Безопасность
-Serve    Служить
-According    Соответствие
-Business    Дело
-Decision    Решение
-Contract    Контакт
-Wide    Широкий
-Agreement    Соглашение
-Kill    Убивать
-Site    Место
-Either    Один из двух, тоже (не)
-Various    Разнообразный
-Screw    Закручивать
-Test    Тест, проверять
-Eat    Кушать
-Close    Близкий,закрывать
-Represent    Представлять
-Colour    Цвет
-Shop    Магазин
-Benefit    Выгода
-Animal    Животное
-Heart    Сердце
-Election    Выборы
-Purpose    Цель
-Due    Обязанный
-Secretary    Секретарь
-Rise    Восход, подниматься
-Date    Дата, датировать
-Hard    Упорно, тяжелый, упорный
-Music    Музыка
-Hair    Волосы
-Prepare    Приготовить
-Anyone    Кто-нибудь
-Pattern    Модель
-Manage    Управлять
-Piece    Кусок
-Discuss    Обсуждать
-Prove    Даказывать
-Front    Передняя часть, передний
-Evening    Вечер
-Royal    Королевский
-Tree    Дерево
-Population    Население
-Fine    Прекрасный
-Plant    Растение, завод, сажать
-Pressure    Давление
-Response    Ответ
-Catch    Хватать
-Street    Улица
-Knowledge    Знание
-Despite    Несмотря на
-Design    Дизайн, разрабатывать
-Kind    Вид, тип, добрый
-Page    Страница
-Enjoy    Наслаждаться
-Individual    Личный,частное лицо
-Rest    Остаток, отдых, отдыхать
-Instead    Вместо
-Wear    Носить
-Basis    Базис
-Size    Размер
-Fire    Огонь, пожар, поджигать
-Series    Ряд, серия
-Success    Успех
-Natural    Естественный
-Wrong    Неправильный
-Near    Около
-Round    Вокруг, круглый, круг
-Thought    Мысль
-List    Список
-Argue    Спорить
-Final    Окончательный
-Future    Будущее
-Introduce    Знакомить
-Enter    Входить
-Space    Космос, место
-Arrive    Прибывать
-Ensure    Обеспечивать
-Statement    Утверждение
-Balcony    Балкон
-Attention    Внимание
-Principle    Принцип
-Pull    Тянуть
-Doctor    Доктор
-Choice    Выбор
-Refer    Ссылаться
-Feature    Особенность, функция
-Couple    Пара
-Step    Шаг, шагать
-Following    Следующий
-Thank    Благодарить
-Machine    Машина
-Income    Доход
-Training    Тренировка
-Present    Подарок, дарить, настоящий
-Association    Ассоциация
-Film    Фильм, пленка
-Difference    Различие
-Fucking    Проклятый
-Region    Регион
-Effort    Усилие
-Player    Игрок
-Everyone    Каждый
-Village    Деревня
-Organisation    Организация
-Whatever    Что бы ни было
-News    Новости
-Nice    Замечательный
-Modern    Современный
-Cell    Ячейка, камера
-Current    Текущий
-Legal    Законный
-Energy    Энергия
-Finally    Окончательно
-Degree    Степень
-Mile    Миля
-Means    Средство
-Whom    Кем
-Treatment    Лечение
-Sound    Звук, звучать
-Above    Над
-Task    Задание
-Red    Красный
-Happy    Счастливый
-Behaviour    Поведение
-Identify    Распознавать
-Resource    Ресурс, источник
-Defence    Защита
-Garden    Сад
-Floor    Пол, этаж
-Technology    Технология
-Style    Стиль
-Feeling    Чувство
-Science    Наука
-Relate    Быть родственным
-Doubt    Сомнение, сомневаться
-Ok    Хорошо
-Produce    Производить
-Horse    Лошадь
-Answer    Ответ
-Compare    Сравнить
-Suffer    Страдать
-Forward    Вперед
-Announce    Объявлять
-User    Пользователь
-Character    Герой
-Risk    Риск, рисковать
-Normal    Обычный
-Myself    (я) сам
-Dog    Собака
-Obtain    Приобретать
-Quickly    Быстро
-Army    Армия
-Forget    Забывать
-Ill    Больной
-Station    Станция, участок
-Glass    Стекло, стакан
-Cup    Кружка
-Previous    Предыдущий
-Husband    Муж
-Recently    Недавно
-Publish    Публиковать
-Serious    Серьезный
-Anyway    В любом случае
-Visit    Приходить в гости
-Capital    Столица
-Sock    Носок
-Note    Заметка, отмечать
-Season    Сезон, время года
-Argument    Спор
-Listen    Слушать
-Responsibility    Ответственность
-Significant    Значительный
-Deal    Некоторое количество, иметь дело
-Prime    Первичный
-Economy    Экономика
-Finish    Закончить
-Duty    Долг
-Fight    Бой, драка, сражаться
-Train    Поезд,тренировать
-Maintain    Обеспечивать
-Attempt    Попытка
-Leg    Нога
-Save    Беречь
-Suddenly    Вдруг
-Brother    Брат
-Improve    Улучшать
-Avoid    Избегать
-Teenager    Подросток
-Wonder    Хотеть знать, удивление
-Fun    Забава
-Title    Название
-Post    Почта, должность
-Hotel    Гостиница
-Aspect    Сторона, аспект
-Increase    Увеличивать
-Surname    Фамилия
-Industrial    Промышленный
-Express    Выражать
-Summer    Лето
-Determine    Определять
-Generally    В общем
-Daughter    Дочь
-Exist    Существовать
-Used to    Бывало
-Share    Делить, акция
-Baby    Дитя
-Nearly    Около
-Smile    Улыбка, улыбаться
-Sorry    Извини
-Sea    Море
-Skill    Навык
-Treat    Лечить
-Remove    Удалить
-Concern    Забота, заботиться
-University    Университет
-Left    Левый
-Dead    Мертвый
-Discussion    Обсуждение
-Specific    Особый
-Box    Ящик
-Outside    Вне
-Total    Всеобщий
-Bit    Немного
-Cost    Стоимость, стоить
-Girlfriend    Подружка
-Market    Рынок, купить или продать на рынке
-Occur    Иметь место
-Research    Исследование, исследовать
-Wonderful    Чудесный
-Division    Подразделение
-Throw    Выбрасывать
-Officer    Служащий
-Procedure    Процедура
-Fill    Вставлять
-King    Король
-Assume    Допускать
-Image    Образ
-Oil    Нефть, масло
-Obviously    Очевидно
-Unless    До тех пор пока не
-Appropriate    Подходящий
-Military    Военный
-Proposal    Предложение
-Mention    Упоминать
-Client    Клиент
-Sector    Сектор
-Direction    Направление
-Admit    Допускать
-Basic    Основной
-Instance    Пример
-Sign    Знак, подписывать
-Original    Оригинальный
-Successful    Успешный
-Reflect    Отражать
-Aware    Осознавать
-Pardon    Извините
-Measure    Мера, измерять
-Attitude    Отношение
-Yourself    (тебя) самого
-Exactly    Точно
-Commission    Комиссия
-Beyond    За пределами
-Seat    Сидение
-President    Президент
-Encourage    Воодушевлять
-Addition    Дополнение
-Goal    Цель
-Miss    Скучать
-Popular    Популярный
-Affair    Дело
-Technique    Техника
-Respect    Уважение, уважать
-Drop    Капля, капать
-Professional    Профессиональный, профессионал
-Fly    Летать, муха
-Version    Версия
-Maybe    Может быть
-Ability    Способность
-Operate    Действовать
-Goods    Товар
-Campaign    Кампания
-Heavy    Тяжелый
-Advice    Совет
-Institution    Институт
-Discover    Открывать
-Surface    Поверхность
-Library    Библиотека
-Pupil    Ученик
-Refuse    Отказывать
-Prevent    Предотвращать
-Tasty    Вкусный
-Dark    Темный
-Teach    Учить (кого-либо)
-Memory    Память
-Culture    Культура
-Blood    Кровь
-Majority    Большинство
-Insane    Сумасшедший
-Variety    Разнообразие
-Depend    Зависеть
-Bill    Банкнота
-Competition    Соревнование
-Ready    Готовый
-Access    Доступ
-Hit    Ударить, толчок, нагревать
-Stone    Камень
-Useful    Полезный
-Extent    Расширение
-Employment    Занятость
-Regard    Внимание, принимать во внимание
-Apart    Отдельно
-Besides    Кроме того
-Shit    Дерьмо
-Text    Текст
-Parliament    Парламент
-Recent    Недавний
-Article    Статья
-Object    Предмет, объект
-Context    Контекст
-Notice    Извещение, заметить
-Complete    Полный, заполнить
-Direct    Прямой, управлять
-Immediately    Немедленно
-Collection    Коллекция
-Card    Карточка
-Interesting    Интересный
-Considerable    Значительный
-Television    Телевидение
-Agency    Агентство
-Except    Кроме
-Physical    Физический
-Check    Проверять, проверка
-Sun    Солнце
-Possibility    Возможность
-Species    Вид
-Speaker    Спикер, выступающий
-Second    Секунда
-Laugh    Смеяться
-Weight    Вес, авторитет
-Responsible    Ответственный
-Document    Документ
-Solution    Решение
-Medical    Медицинский
-Hot    Горячий, жаркий
-Budget    Бюджет
-River    Река
-Fit    Подходящий
-Push    Толкать
-Tomorrow    Завтра
-Requirement    Требование
-Cold    Холодный, простуда
-Opposition    Оппозиция
-Opinion    Мнение
-Drug    Наркотик
-Quarter    Четверть, квартал
-Option    Опция, вариант
-Worth    Стоящий
-Define    Определять
-Influence    Влияние, влиять
-Occasion    Случай
-Software    Программное обеспечение
-Highly    Высоко
-Exchange    Обмен
-Lack    Отсутствие, недостаток, испытывать недостаток
-Concept    Понятие, концепция
-Blue    Синий
-Star    Звезда, играть главную роль
-Radio    Радио
-Arrangement    Приведение в порядок
-Examine    Проверять
-Bird    Птица
-Busy    Занятый, многолюдный
-Chair    Кресло
-Green    Зеленый
-Band    (музыкальная) группа
-Sex    Пол
-Finger    Палец
-Independent    Независимый
-Equipment    Оборудование
-North    Север
-Message    Послание
-Afternoon    Время после полудня
-Fear    Страх, бояться
-Drink    Пить, спиртной напиток
-Fully    Полностью
-Race    Раса, гонка
-Strategy    Стратегия
-Extra    Дополнительный
-Scene    Сцена
-Slightly    Слегка
-Kitchen    Кухня
-Arise    Подниматься
-Speech    Речь
-Network    Сеть
-Tea    Чай
-Peace    Мир
-Failure    Провал
-Employee    Работник
-Ahead    Вперед
-Scale    Шкала
-Attend    Посещать
-Hardly    Едва
-Shoulder    Плечо
-Otherwise    По-другому
-Railway    Железная дорога
-Supply    Запас, снабжать
-Owner    Собственник
-Associate    Общаться
-Corner    Угол
-Past    Прошлый
-Match    Матч, спичка, соответствовать
-Sport    Спорт
-Beautiful    Красивый
-Hang    Висеть
-Marriage    Свадьба
-Civil    Гражданский
-Sentence    Предложение
-Crime    Преступление
-Ball    Мяч
-Marry    Жениться
-Wind    Ветер
-Truth    Правда
-Protect    Защищать
+A	Неопределенный артикль
+The	Определенный артикль
+Be	Быть
+Of	Предлог родительного падежа
+And	И
+In	В, через (о времени)
+To	К, в
+Have	Иметь
+It	Это, он, она, оно (для неодуш.сущ.)
+For	Для, ибо
+I	Я
+That	Тот, что
+You	Ты, вы
+He	Он
+On	На
+With	С
+Do	Делать
+At	У
+By	К, предлог творительного падежа
+Not	Не
+This	Это
+But	Но, кроме
+From	От
+They	Они
+His	Его
+She	Она
+Or	Или
+Which	Который
+As	Как, так как
+We	Мы
+Say	Сказать
+Will	Вспом.глагол буд.вр., воля
+Would	Бы
+Can	Уметь, мочь
+If	Если
+Their	Их
+Go	Ходить, идти
+What	Что
+There	Там
+All	Все
+Get	Получать
+Her	Ее
+Make	Делать
+Who	Кто
+Out	Вне
+Up	Вверх
+See	Видеть
+Know	Знать
+Time	Время, раз
+Take	Брать
+Them	Им
+Some	Несколько, какой-то
+Could	Мог
+So	Такой, поэтому
+Him	Ему
+Year	Год
+Into	В
+Its	Его
+Then	Затем
+Think	Думать
+My	Мой
+Come	Приходить
+Than	Чем
+More	Больше
+About	О, около
+Now	Сейчас
+Last	Прошлый, продолжаться
+Your	Твой, ваш
+Me	Мне
+No	Нет
+Other	Другой
+Give	Дать
+Just	Только что, справедливый
+Should	Следует
+These	Эти
+People	Люди
+Also	Также
+Well	Хорошо
+Any	Любой
+Only	Только, единственный
+New	Новый
+Very	Очень, тот самый
+When	Когда (вопросительное слово)
+May	Мочь
+Way	Путь, способ
+Look	Смотреть, выглядеть, взгляд
+Like	Любить, нравиться, как
+Use	Использовать, применение
+Such	Такой
+How	Как
+Because	Потому что
+Good	Хороший
+Find	Найти
+Man	Человек, мужчина
+Our	Наш
+Want	Хотеть
+Day	День
+Between	Между
+Even	Даже
+Many	Много (для исчисляемых)
+Those	Те
+After	После
+Down	Внизу
+Yeah	Да
+Thing	Вещь
+Tell	Сказать (кому-то)
+Through	Сквозь
+Back	Назад, спина
+Still	Все еще, тихий
+Must	Должен
+Child	Ребенок
+Here	Здесь
+Over	Над, выше (предлог), пере-, движение через (наречие)
+Too	Тоже, слишком
+Put	Положить
+Own	Собственный
+Work	Работа, работать
+Become	Становиться
+Old	Старый
+Government	Правительство
+Mean	Иметь в виду
+Part	Часть
+Leave	Покинуть
+Life	Жизнь
+Great	Великий, великолепный
+Where	Где
+Case	Случай, коробка
+Woman	Женщина
+Seem	Казаться
+Same	Тот же самый
+Us	Нас
+Need	Нужда, нужно
+Feel	Чувствовать
+Each	Каждый
+Might	(пр.вр. от may может быть)
+Much	Много (для неисчисл.), очень
+Ask	Спрашивать, задавать
+Group	Группа
+Number	Число, номер
+Yes	Да
+However	Однако
+Another	Другой
+Again	Снова
+World	Мир
+Area	Территория, площадь
+Show	Шоу, показывать
+Course	Курс
+Shall	Вспом.глагол буд.вр.
+Under	Под
+Problem	Проблема
+Against	Против
+Never	Никогда
+Most	Самый
+Service	Служба
+Try	Стараться
+Call	Звонок, звать, звонить, называться
+Hand	Рука
+Party	Вечеринка, партия
+High	Высоко, высокий
+Something	Что-то
+School	Школа
+Small	Маленький
+Place	Место, размещать
+Before	До
+Why	Почему
+While	В то время как, пока, промежуток времени
+Away	Вне
+Keep	Хранить, держать, продолжать
+Point	Точка, смысл, указывать
+House	Дом
+Different	Различный
+Country	Страна, сельская местность
+Really	В самом деле
+Provide	Обеспечить
+Week	Неделя
+Hold	Держать, проводить
+Large	Большой
+Member	Член
+Off	От
+Always	Всегда
+Next	Следующий
+Follow	Следовать
+Without	Без
+Turn	Очередность, поворачивать
+End	Конец, заканчивать
+Local	Местный
+During	В течение
+Bring	Нести
+Word	Слово
+Begin	Начинать
+Although	Хотя
+Example	Пример
+Family	Семья
+Rather	Скорее
+Fact	Факт
+Social	Общественный
+Write	Писать
+State	Государство, штат, утверждать
+Percent	Процент
+Quite	Довольно
+Both	Оба
+Start	Старт, начинать
+Run	Бег, бежать
+Long	Длинный
+Right	Правый, право
+Set	Набор, установить
+Help	Помогать, помощь
+Every	Каждый
+Home	Дом, домашний
+Month	Месяц
+Side	Сторона
+Night	Ночь
+Important	Важный
+Eye	Глаз
+Head	Возглавлять, голова
+Question	Вопрос, сомневаться
+Play	Играть, пьеса
+Power	Власть, сила
+Money	Деньги
+Change	Изменение, сдача, менять
+Move	Двигаться
+Interest	Интерес, процент прибыли
+Order	Приказ, порядок, заказывать
+Book	Книга, заказать
+Often	Часто
+Young	Молодой
+National	Национальный
+Pay	Платить
+Hear	Слышать
+Room	Комната
+Whether	Ли
+Water	Вода
+Form	Форма, бланк, формировать
+Car	Автомобиль
+Others	Другие
+Yet	Еще (не), однако
+Perhaps	Возможно
+Meet	Встретить, познакомиться
+Till	До
+Though	Хотя
+Policy	Политика
+Include	Включать (в себя)
+Believe	Верить
+Already	Уже
+Possible	Возможный
+Nothing	Ничего
+Line	Линия
+Allow	Позволять
+Effect	Эффект
+Big	Большой
+Late	Поздний
+Lead	Руководство, вести
+Stand	Стоять, стойка
+Idea	Идея
+Study	Учеба, кабинет, учиться
+Lot	Много (в выраженииa lot)
+Live	Жить
+Job	Работа
+Since	С (тех пор как)
+Name	Имя, называть
+Result	Результат
+Body	Тело
+Happen	Случаться
+Friend	Друг
+Least	Наименьший
+Almost	Почти
+Carry	Нести
+Authority	Власть
+Early	Рано
+View	Взгляд, обозревать
+Himself	(он) сам
+Public	Общественный, народ, публика
+Usually	Обычно
+Together	Вместе
+Talk	Беседа, беседовать
+Report	Доклад, сообщать
+Face	Лицо, стоять лицом к
+Sit	Сидеть
+Appear	Появляться
+Continue	Продолжать
+Able	Способный
+Political	Политический
+Hour	Час
+Rate	Пропорция, ставка
+Law	Закон
+Door	Дверь
+Company	Компания
+Court	Суд
+Fuck	Трахаться
+Little	Маленький, немного
+Because of	Из-за
+Office	Офис
+Let	Позволить
+War	Война
+Reason	Причина
+Less	Менее
+Subject	Предмет
+Person	Лицо, человек
+Term	Термин, срок
+Full	Полный
+Sort	Сорт, вид, сортировать
+Require	Требовать
+Suggest	Предлагать, предполагать
+Far	Далеко
+Towards	К
+Anything	Ничего
+Period	Период
+Read	Читать
+Society	Общество
+Process	Процесс
+Mother	Мать
+Offer	Предложение, предлагать
+Voice	Голос
+Once	Как только, однажды
+Police	Полиция
+Lose	Терять
+Add	Добавлять
+Probably	Вероятно
+Expect	Ожидать
+Ever	Коогда-нибудь
+Price	Цена
+Action	Действие
+Issue	Выпуск
+Remember	Помнить
+Position	Позиция
+Low	Низкий
+Matter	Дело, вопрос, факты, иметь значение
+Community	Община
+Remain	Оставаться
+Figure	Цифра
+Type	Тип
+Actually	Вообще-то
+Education	Образование
+Fall	Падать, упадок, осень (ам.)
+Speak	Говорить
+Few	Мало
+Today	Сегодня
+Enough	Достаточно
+Open	Открытый, открывать
+Bad	Плохой
+Buy	Покупать
+Minute	Минута
+Moment	Момент
+Girl	Девочка, девушка
+Age	Возраст
+Centre	Центр
+Stop	Остановка, остановить(-ся)
+Control	Контроль, контролировать
+Send	Посылать
+Health	Здоровье
+Decide	Решать
+Main	Главный
+Win	Победить, победа
+Wound	Рана, ранить
+Understand	Понимать
+Develop	Развивать
+Class	Класс
+Industry	Промышленность
+Receive	Получать
+Several	Несколько
+Return	Возвращение, возвращаться
+Build	Строить
+Spend	Проводить (время)
+Force	Сила, принуждать
+Condition	Условие
+Itself	(он) сам
+Paper	Бумага, газета
+Themselves	(они) сами
+Major	Главный
+Describe	Описывать
+Agree	Соглашаться
+Economic	Экономический
+Upon	На
+Learn	Учить
+General	Генерал, общий
+Century	Век
+Therefore	Поэтому
+Father	Отец
+Section	Раздел
+Patient	Терпеливый, пациент
+Around	Вокруг
+Activity	Мероприятие
+Road	Дорога
+Table	Стол
+Cow	Корова
+Including	Включающий
+Church	Церковь
+Reach	Достигать
+Real	Реальный
+Lie	Лгать
+Mind	Ум, возражать
+Likely	Вероятный
+Among	Среди
+Team	Команда
+Death	Смерть
+Soon	Скоро
+Act	Акт, действие, действовать
+Sense	Смысл, чувство, чувствовать
+Staff	Персонал
+Certain	Определенный
+Student	Студент
+Half	Половина
+Language	Язык
+Walk	Прогулка, ходить (пешком)
+Die	Умереть
+Special	Особый
+Difficult	Трудный
+International	Международный
+Department	Отделение
+Management	Управление
+Morning	Утро
+Draw	Рисовать (карандашом)
+Hope	Надежда, надеяться
+Across	Через
+Plan	План, планировать
+Product	Продукт
+City	Город
+Committee	Комитет
+Ground	Земля
+Letter	Письмо, буква
+Create	Создавать
+Evidence	Свидетельство
+Foot	Нога
+Clear	Ясный, очищать
+Boy	Мальчик
+Game	Игра
+Food	Еда
+Role	Роль
+Practice	Практика
+Bank	Банк, берег
+Else	Еще
+Support	Поддержка, поддерживать
+Sell	Продавать
+Event	Событие
+Building	Здание
+Behind	За, сзади
+Sure	Уверенный
+Pass	Передавать, проходить
+Black	Черный
+Stage	Стадия
+Meeting	Встреча
+Hi	Привет
+Sometimes	Иногда
+Thus	Таким образом
+Accept	Допускать
+Available	Наличный
+Town	Город
+Art	Искусство
+Further	Дальнейший
+Club	Клуб
+Arm	Рука
+History	История
+Parent	Родитель
+Land	Земля, приземляться
+Trade	Торговля, торговать
+Watch	Часы, наблюдать
+White	Белый
+Situation	Ситуация
+Whose	Чей
+Ago	Назад
+Teacher	Учитель
+Record	Запись, записывать
+Manager	Управляющий, менеджер
+Relation	Связь, отношение
+Common	Общий
+System	Система
+Strong	Сильный
+Whole	Целый
+Field	Поле
+Free	Свободный
+Break	Ломать, перерыв
+Yesterday	Вчера
+Window	Окно
+Account	Счет
+Explain	Объяснять
+Stay	Остановиться
+Wait	Ждать
+Material	Материал
+Air	Воздух
+Wife	Жена
+Cover	Крышка, покрывать
+Apply	Обращаться
+Love	Любить, любовь
+Project	Проект
+Raise	Поднимать
+Sale	Продажа
+Relationship	Отношение
+Indeed	В самом деле
+Please	Пожалуйста
+Light	Светлый, легкий, свет
+Claim	Требование, требовать
+Base	Основа, база,базироваться
+Care	Заботиться, забота, осторожность
+Someone	Кто-то
+Everything	Всё
+Certainly	Конечно
+Rule	Правило, управлять
+Cut	Резать
+Grow	Расти, выращивать
+Similar	Подобный
+Story	История, рассказ
+Quality	Качество
+Tax	Налог
+Worker	Рабочий
+Nature	Природа
+Structure	Структура
+Necessary	Необходимый
+Pound	Фунт
+Method	Метод
+Unit	Часть
+Central	Центральный
+Bed	Кровать
+Union	Союз
+Movement	Движение
+Board	Доска, совет
+True	Правдивый
+Especially	Особенно
+Short	Короткий
+Personal	Личный
+Detail	Деталь
+Model	Модель
+Bear	Медведь,носить, рождать
+Single	Одинокий
+Join	Присоединяться
+Reduce	Сокращать
+Establish	Учреждать
+Herself	(она) сама
+Wall	Стена
+Easy	Легкий
+Private	Частный
+Computer	Компьютер
+Former	Бывший
+Hospital	Больница
+Chapter	Глава
+Scheme	Схема, план
+Bye	Пока
+Consider	Полагать
+Council	Совет
+Development	Развитие
+Experience	Опыт
+Information	Информация
+Involve	Вовлекать
+Theory	Теория
+Within	В
+Choose	Выбирать
+Wish	Желать, желание
+Property	Собственность
+Achieve	Достигать
+Financial	Финансовый
+Poor	Бедный
+Blow	Дуть
+Charge	Ответственность, загружать
+Director	Директор
+Drive	Водить (машину), катание, езда
+Approach	Подход, приближаться
+Chance	Шанс
+Application	Приложение
+Seek	Искать
+Cool	Крутой, прохладный
+Foreign	Иностранный
+Along	Вдоль
+Top	Верхний, верх
+Amount	Количество
+Son	Сын
+Operation	Операция
+Fail	Потерпеть неудачу
+Human	Человеческий,человек
+Opportunity	Возможность
+Simple	Простой
+Leader	Лидер
+Level	Уровень
+Production	Продукция
+Value	Стоимость
+Firm	Крепкий, фирма
+Picture	Картина
+Source	Источник
+Security	Безопасность
+Serve	Служить
+According	Соответствие
+Business	Дело
+Decision	Решение
+Contract	Контакт
+Wide	Широкий
+Agreement	Соглашение
+Kill	Убивать
+Site	Место
+Either	Один из двух, тоже (не)
+Various	Разнообразный
+Screw	Закручивать
+Test	Тест, проверять
+Eat	Кушать
+Close	Близкий,закрывать
+Represent	Представлять
+Colour	Цвет
+Shop	Магазин
+Benefit	Выгода
+Animal	Животное
+Heart	Сердце
+Election	Выборы
+Purpose	Цель
+Due	Обязанный
+Secretary	Секретарь
+Rise	Восход, подниматься
+Date	Дата, датировать
+Hard	Упорно, тяжелый, упорный
+Music	Музыка
+Hair	Волосы
+Prepare	Приготовить
+Anyone	Кто-нибудь
+Pattern	Модель
+Manage	Управлять
+Piece	Кусок
+Discuss	Обсуждать
+Prove	Даказывать
+Front	Передняя часть, передний
+Evening	Вечер
+Royal	Королевский
+Tree	Дерево
+Population	Население
+Fine	Прекрасный
+Plant	Растение, завод, сажать
+Pressure	Давление
+Response	Ответ
+Catch	Хватать
+Street	Улица
+Knowledge	Знание
+Despite	Несмотря на
+Design	Дизайн, разрабатывать
+Kind	Вид, тип, добрый
+Page	Страница
+Enjoy	Наслаждаться
+Individual	Личный,частное лицо
+Rest	Остаток, отдых, отдыхать
+Instead	Вместо
+Wear	Носить
+Basis	Базис
+Size	Размер
+Fire	Огонь, пожар, поджигать
+Series	Ряд, серия
+Success	Успех
+Natural	Естественный
+Wrong	Неправильный
+Near	Около
+Round	Вокруг, круглый, круг
+Thought	Мысль
+List	Список
+Argue	Спорить
+Final	Окончательный
+Future	Будущее
+Introduce	Знакомить
+Enter	Входить
+Space	Космос, место
+Arrive	Прибывать
+Ensure	Обеспечивать
+Statement	Утверждение
+Balcony	Балкон
+Attention	Внимание
+Principle	Принцип
+Pull	Тянуть
+Doctor	Доктор
+Choice	Выбор
+Refer	Ссылаться
+Feature	Особенность, функция
+Couple	Пара
+Step	Шаг, шагать
+Following	Следующий
+Thank	Благодарить
+Machine	Машина
+Income	Доход
+Training	Тренировка
+Present	Подарок, дарить, настоящий
+Association	Ассоциация
+Film	Фильм, пленка
+Difference	Различие
+Fucking	Проклятый
+Region	Регион
+Effort	Усилие
+Player	Игрок
+Everyone	Каждый
+Village	Деревня
+Organisation	Организация
+Whatever	Что бы ни было
+News	Новости
+Nice	Замечательный
+Modern	Современный
+Cell	Ячейка, камера
+Current	Текущий
+Legal	Законный
+Energy	Энергия
+Finally	Окончательно
+Degree	Степень
+Mile	Миля
+Means	Средство
+Whom	Кем
+Treatment	Лечение
+Sound	Звук, звучать
+Above	Над
+Task	Задание
+Red	Красный
+Happy	Счастливый
+Behaviour	Поведение
+Identify	Распознавать
+Resource	Ресурс, источник
+Defence	Защита
+Garden	Сад
+Floor	Пол, этаж
+Technology	Технология
+Style	Стиль
+Feeling	Чувство
+Science	Наука
+Relate	Быть родственным
+Doubt	Сомнение, сомневаться
+Ok	Хорошо
+Produce	Производить
+Horse	Лошадь
+Answer	Ответ
+Compare	Сравнить
+Suffer	Страдать
+Forward	Вперед
+Announce	Объявлять
+User	Пользователь
+Character	Герой
+Risk	Риск, рисковать
+Normal	Обычный
+Myself	(я) сам
+Dog	Собака
+Obtain	Приобретать
+Quickly	Быстро
+Army	Армия
+Forget	Забывать
+Ill	Больной
+Station	Станция, участок
+Glass	Стекло, стакан
+Cup	Кружка
+Previous	Предыдущий
+Husband	Муж
+Recently	Недавно
+Publish	Публиковать
+Serious	Серьезный
+Anyway	В любом случае
+Visit	Приходить в гости
+Capital	Столица
+Sock	Носок
+Note	Заметка, отмечать
+Season	Сезон, время года
+Argument	Спор
+Listen	Слушать
+Responsibility	Ответственность
+Significant	Значительный
+Deal	Некоторое количество, иметь дело
+Prime	Первичный
+Economy	Экономика
+Finish	Закончить
+Duty	Долг
+Fight	Бой, драка, сражаться
+Train	Поезд,тренировать
+Maintain	Обеспечивать
+Attempt	Попытка
+Leg	Нога
+Save	Беречь
+Suddenly	Вдруг
+Brother	Брат
+Improve	Улучшать
+Avoid	Избегать
+Teenager	Подросток
+Wonder	Хотеть знать, удивление
+Fun	Забава
+Title	Название
+Post	Почта, должность
+Hotel	Гостиница
+Aspect	Сторона, аспект
+Increase	Увеличивать
+Surname	Фамилия
+Industrial	Промышленный
+Express	Выражать
+Summer	Лето
+Determine	Определять
+Generally	В общем
+Daughter	Дочь
+Exist	Существовать
+Used to	Бывало
+Share	Делить, акция
+Baby	Дитя
+Nearly	Около
+Smile	Улыбка, улыбаться
+Sorry	Извини
+Sea	Море
+Skill	Навык
+Treat	Лечить
+Remove	Удалить
+Concern	Забота, заботиться
+University	Университет
+Left	Левый
+Dead	Мертвый
+Discussion	Обсуждение
+Specific	Особый
+Box	Ящик
+Outside	Вне
+Total	Всеобщий
+Bit	Немного
+Cost	Стоимость, стоить
+Girlfriend	Подружка
+Market	Рынок, купить или продать на рынке
+Occur	Иметь место
+Research	Исследование, исследовать
+Wonderful	Чудесный
+Division	Подразделение
+Throw	Выбрасывать
+Officer	Служащий
+Procedure	Процедура
+Fill	Вставлять
+King	Король
+Assume	Допускать
+Image	Образ
+Oil	Нефть, масло
+Obviously	Очевидно
+Unless	До тех пор пока не
+Appropriate	Подходящий
+Military	Военный
+Proposal	Предложение
+Mention	Упоминать
+Client	Клиент
+Sector	Сектор
+Direction	Направление
+Admit	Допускать
+Basic	Основной
+Instance	Пример
+Sign	Знак, подписывать
+Original	Оригинальный
+Successful	Успешный
+Reflect	Отражать
+Aware	Осознавать
+Pardon	Извините
+Measure	Мера, измерять
+Attitude	Отношение
+Yourself	(тебя) самого
+Exactly	Точно
+Commission	Комиссия
+Beyond	За пределами
+Seat	Сидение
+President	Президент
+Encourage	Воодушевлять
+Addition	Дополнение
+Goal	Цель
+Miss	Скучать
+Popular	Популярный
+Affair	Дело
+Technique	Техника
+Respect	Уважение, уважать
+Drop	Капля, капать
+Professional	Профессиональный, профессионал
+Fly	Летать, муха
+Version	Версия
+Maybe	Может быть
+Ability	Способность
+Operate	Действовать
+Goods	Товар
+Campaign	Кампания
+Heavy	Тяжелый
+Advice	Совет
+Institution	Институт
+Discover	Открывать
+Surface	Поверхность
+Library	Библиотека
+Pupil	Ученик
+Refuse	Отказывать
+Prevent	Предотвращать
+Tasty	Вкусный
+Dark	Темный
+Teach	Учить (кого-либо)
+Memory	Память
+Culture	Культура
+Blood	Кровь
+Majority	Большинство
+Insane	Сумасшедший
+Variety	Разнообразие
+Depend	Зависеть
+Bill	Банкнота
+Competition	Соревнование
+Ready	Готовый
+Access	Доступ
+Hit	Ударить, толчок, нагревать
+Stone	Камень
+Useful	Полезный
+Extent	Расширение
+Employment	Занятость
+Regard	Внимание, принимать во внимание
+Apart	Отдельно
+Besides	Кроме того
+Shit	Дерьмо
+Text	Текст
+Parliament	Парламент
+Recent	Недавний
+Article	Статья
+Object	Предмет, объект
+Context	Контекст
+Notice	Извещение, заметить
+Complete	Полный, заполнить
+Direct	Прямой, управлять
+Immediately	Немедленно
+Collection	Коллекция
+Card	Карточка
+Interesting	Интересный
+Considerable	Значительный
+Television	Телевидение
+Agency	Агентство
+Except	Кроме
+Physical	Физический
+Check	Проверять, проверка
+Sun	Солнце
+Possibility	Возможность
+Species	Вид
+Speaker	Спикер, выступающий
+Second	Секунда
+Laugh	Смеяться
+Weight	Вес, авторитет
+Responsible	Ответственный
+Document	Документ
+Solution	Решение
+Medical	Медицинский
+Hot	Горячий, жаркий
+Budget	Бюджет
+River	Река
+Fit	Подходящий
+Push	Толкать
+Tomorrow	Завтра
+Requirement	Требование
+Cold	Холодный, простуда
+Opposition	Оппозиция
+Opinion	Мнение
+Drug	Наркотик
+Quarter	Четверть, квартал
+Option	Опция, вариант
+Worth	Стоящий
+Define	Определять
+Influence	Влияние, влиять
+Occasion	Случай
+Software	Программное обеспечение
+Highly	Высоко
+Exchange	Обмен
+Lack	Отсутствие, недостаток, испытывать недостаток
+Concept	Понятие, концепция
+Blue	Синий
+Star	Звезда, играть главную роль
+Radio	Радио
+Arrangement	Приведение в порядок
+Examine	Проверять
+Bird	Птица
+Busy	Занятый, многолюдный
+Chair	Кресло
+Green	Зеленый
+Band	(музыкальная) группа
+Sex	Пол
+Finger	Палец
+Independent	Независимый
+Equipment	Оборудование
+North	Север
+Message	Послание
+Afternoon	Время после полудня
+Fear	Страх, бояться
+Drink	Пить, спиртной напиток
+Fully	Полностью
+Race	Раса, гонка
+Strategy	Стратегия
+Extra	Дополнительный
+Scene	Сцена
+Slightly	Слегка
+Kitchen	Кухня
+Arise	Подниматься
+Speech	Речь
+Network	Сеть
+Tea	Чай
+Peace	Мир
+Failure	Провал
+Employee	Работник
+Ahead	Вперед
+Scale	Шкала
+Attend	Посещать
+Hardly	Едва
+Shoulder	Плечо
+Otherwise	По-другому
+Railway	Железная дорога
+Supply	Запас, снабжать
+Owner	Собственник
+Associate	Общаться
+Corner	Угол
+Past	Прошлый
+Match	Матч, спичка, соответствовать
+Sport	Спорт
+Beautiful	Красивый
+Hang	Висеть
+Marriage	Свадьба
+Civil	Гражданский
+Sentence	Предложение
+Crime	Преступление
+Ball	Мяч
+Marry	Жениться
+Wind	Ветер
+Truth	Правда
+Protect	Защищать
