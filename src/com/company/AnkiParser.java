@@ -52,11 +52,12 @@ public class AnkiParser {
      */
     private static String replaceData(String data) {
         data = replace(data, "\\d", ""); //убрать цифры
-        data = replace(data, " - ", "     "); //убрать -
+        data = replace(data, "\"", ""); //убрать "
+        data = replace(data, " - ", "\t"); //убрать -
         data = replace(data, "(?m)^\\s+|\\s+$", "");
         data = replace(data, ";", ","); //замена ; на ,
-        String preResult = changeFirstLetterToCapital(data, "    ", true);
-        return changeFirstLetterToCapital(preResult, "\n", false);
+        String preResult = changeFirstLetterToCapital(data, "\t");
+        return changeFirstLetterToCapital(preResult, "\n");
     }
 
     /*
@@ -69,18 +70,14 @@ public class AnkiParser {
     /*
     Делает первые буквы большими
      */
-    private static String changeFirstLetterToCapital(String words, String splitSymbol, boolean fieldSeparated) {
+    private static String changeFirstLetterToCapital(String words, String splitSymbol) {
         StringBuilder res = new StringBuilder();
         String[] strArr = words.split(splitSymbol);
         for (String str : strArr) {
             char[] stringArray = str.trim().toCharArray();
             stringArray[0] = Character.toUpperCase(stringArray[0]);
             str = new String(stringArray);
-            if (fieldSeparated) {
-                res.append(str).append("    ");
-            } else {
-                res.append(str).append("\n");
-            }
+            res.append(str).append(splitSymbol);
         }
         return res.toString();
     }
